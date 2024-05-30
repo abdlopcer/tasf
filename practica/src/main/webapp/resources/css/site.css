@@ -1,0 +1,13 @@
+.error{
+font-color:red;
+}
+
+.tablaProductos{
+border:1px solid blue;
+padding:2px;
+}
+
+.tablaProductos th{
+background-color:#ccc;
+font-weight:bold;
+}
