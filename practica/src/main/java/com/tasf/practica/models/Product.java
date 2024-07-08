@@ -13,6 +13,7 @@ public class Product {
 
     private String description;
 
+    private String category;
 
 
 
